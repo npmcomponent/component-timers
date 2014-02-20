@@ -1,0 +1,14 @@
+{
+  "name": "component-timers",
+  "description": "Timer management",
+  "version": "1.0.0",
+  "keywords": [
+    "timer",
+    "timers",
+    "interval",
+    "timeout"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
